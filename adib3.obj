@@ -1,0 +1,17 @@
+  1: prog ADIBIDEA ;                     
+  2: int A ;                                                      
+  3: int B ;                                                      
+  4: int C ;                                                      
+  5: int F ;                                                      
+  6: int G ;                                                      
+  7: int H ;                                                      
+  8: int I ;                                                      
+  9: int J ;                                                      
+ 10: if A < B goto 012;                                                                                        
+ 11: goto 016; 
+ 12: if C > 7 goto 016;                                                                                        
+ 13: goto 014; 
+ 14: A := 1 ;                                                         
+ 15: goto 017; 
+ 16: A := 4 ;                                                         
+ 17: halt;

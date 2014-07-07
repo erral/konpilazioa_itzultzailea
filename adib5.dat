@@ -1,0 +1,27 @@
+program adibidea is
+		a, b, c : integer;
+		d, e : float;
+     	{* hau lerro
+	     anitzeko komentarioa da *}
+
+	procedure gehitu(x, y : in integer) is
+	lag : integer;
+	{
+		lag := a; c := b;
+		do {
+				{*exit if lag <= 17;*}
+				lag := lag-1;
+				c := c or 1 ;
+				exit if (7+6);
+		} while lag > 0;
+		
+	} gehitu;
+
+	{    
+		get(a); gt(b);
+		d := 1/b and f;
+		e := 1/a; 
+		{*gehitu(a,b,c);*}
+		c := (c*c)*d+e;
+		put_line(c*c);
+	};

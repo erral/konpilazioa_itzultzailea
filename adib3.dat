@@ -1,0 +1,9 @@
+program adibidea is
+ a, b,c,f,g,h,i,j : integer;
+{
+  if (a < b) and not ( c > 7 ) then {
+      a:= 1;}
+  else {
+   a  := 4;
+   }
+  }adibidea;

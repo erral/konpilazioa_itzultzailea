@@ -1,0 +1,50 @@
+program adibidea is
+ a, b: integer;
+{
+  if a < b then {
+     do {
+         a := a + 1;
+	 exit if b > 7;
+	 b := b / 9;
+	 }
+	 while b < c ;
+	 b := b+1;}
+  else {
+      a  := a + b;
+      do{
+          a:= a * 7;
+          b := a +5;
+      } while a<b;
+      
+  }
+  do{
+     c := c * 6;
+     b := b +4;
+     if a < b then {
+       tartekoa := b;
+       b := a;
+       a := tartekoa;
+       if tartekoa < 5 then {
+           exit;
+       }
+       else {
+       tartekoa := tartekoa;
+       }
+       {*exit if tartekoa<5;*}
+     }
+     
+     else{ exit if a< tartekoa;
+    }
+  
+  
+     do{
+        exit if a > 10000;
+	a := a + 1;
+
+       } while a < c;
+        c := c - 1;
+  }while c >= 0;
+
+  a:=b * c + d * c;
+
+}adibidea;

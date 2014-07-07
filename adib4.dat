@@ -1,0 +1,9 @@
+program adibidea is
+   00,b,c: float;
+   d,e: integer;
+
+{
+   a := a + 5 and 6;
+   b := b / c;
+   {*c := a < 5;*}
+}000;
